@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+   >
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:titleMarginEnd="6dp"
+            android:elevation="4dp"
+            app:collapseIcon="@drawable/tt"
+             android:background="@color/colorPrimary"
+
+            >
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+
+                >
+                     <LinearLayout
+                         android:layout_width="wrap_content"
+                         android:layout_height="wrap_content"
+                         android:orientation="horizontal"
+                         android:layout_centerInParent="true">
+                         <ImageView
+                             android:id="@+id/img"
+                             android:layout_width="38dp"
+                             android:layout_height="40dp"
+                             android:layout_margin="0dp"
+                             android:layout_gravity="center_vertical"
+                             android:src="@drawable/tt" />
+
+                         <TextView
+                             android:id="@+id/textView"
+                             android:layout_width="wrap_content"
+                             android:layout_height="wrap_content"
+                             android:layout_margin="0dp"
+                             android:textAlignment="center"
+
+                             android:text="talent tantra  "
+                             android:layout_gravity="center_vertical"
+                             android:textColor="#ffffff"
+                             android:textSize="40sp"
+
+                             android:textStyle="bold" />
+                     </LinearLayout>
+
+
+
+
+
+
+            </RelativeLayout>
+
+        </android.support.v7.widget.Toolbar>
+
+        <com.example.devashish.tt20.Utility.CustomViewPager
+            android:id="@+id/vp_horizontal_ntb"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+             android:layout_weight="10"
+
+
+            android:visibility="visible" />
+
+        <devlight.io.library.ntb.NavigationTabBar
+            android:id="@+id/ntb_horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:elevation="4dp"
+          android:layout_weight="1"
+            app:ntb_badge_bg_color="@color/colorPrimary"
+            app:ntb_badge_gravity="top"
+            app:ntb_badge_position="left"
+            app:ntb_badge_size="13sp"
+            app:ntb_badge_title_color="#ffffffff"
+
+            app:ntb_badge_use_typeface="true"
+            app:ntb_badged="true"
+            app:ntb_typeface="fonts/agency.ttf" />
+    </LinearLayout>
+
+
+
+
+
+</android.support.constraint.ConstraintLayout>

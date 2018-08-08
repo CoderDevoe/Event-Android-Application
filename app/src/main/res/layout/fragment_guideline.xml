@@ -1,0 +1,178 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.devashish.tt20.Guidelines.Guideline"
+    android:background="@color/colorBack"
+    android:orientation="vertical"
+    >
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true"
+        android:overScrollMode="never">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="8dp"
+            android:orientation="vertical"
+            android:id="@+id/guide">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:background="@drawable/roundrect"
+                android:layout_marginTop="16dp"
+                android:layout_marginRight="8dp"
+                android:layout_marginLeft="8dp"
+                >
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:elevation="4dp"
+                    android:background="@drawable/spons_draw"
+                    >
+                    <util.android.textviews.FontTextView
+
+                        android:padding="8dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="general guidelines"
+                        android:fontFamily="ass.ttf"
+                        android:layout_centerInParent="true"
+
+                        android:textSize="30sp"
+                        android:textColor="#ffffff"/>
+                </RelativeLayout>
+                <TextView
+                    android:layout_marginTop="8dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/guide_general"
+                    android:textSize="15sp"
+                    android:padding="8dp"
+
+                    android:layout_gravity="center"
+                    android:textColor="#ffffff"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:background="@drawable/roundrect"
+                android:layout_marginTop="16dp"
+                android:layout_marginRight="8dp"
+                android:layout_marginLeft="8dp"
+                >
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:elevation="4dp"
+                    android:background="@drawable/spons_draw"
+                    >
+                    <util.android.textviews.FontTextView
+
+                        android:padding="8dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="travel reimbursement"
+                        android:fontFamily="ass.ttf"
+                        android:layout_centerInParent="true"
+
+                        android:textSize="30sp"
+                        android:textColor="#ffffff"/>
+                </RelativeLayout>
+                <TextView
+                    android:layout_marginTop="8dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/guide_travel"
+                    android:textSize="15sp"
+                    android:padding="8dp"
+
+                    android:layout_gravity="center"
+                    android:textColor="#ffffff"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:background="@drawable/roundrect"
+                android:layout_marginTop="16dp"
+                android:layout_marginRight="8dp"
+                android:layout_marginLeft="8dp"
+                >
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:elevation="4dp"
+                    android:background="@drawable/spons_draw"
+                    >
+                    <util.android.textviews.FontTextView
+
+                        android:padding="8dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="accomodation"
+                        android:fontFamily="ass.ttf"
+                        android:layout_centerInParent="true"
+
+                        android:textSize="30sp"
+                        android:textColor="#ffffff"/>
+                </RelativeLayout>
+                <TextView
+                    android:layout_marginTop="8dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/guide_acco"
+                    android:textSize="15sp"
+                    android:padding="8dp"
+
+                    android:layout_gravity="center"
+                    android:textColor="#ffffff"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:background="@drawable/roundrect"
+                android:layout_marginTop="16dp"
+                android:layout_marginRight="8dp"
+                android:layout_marginLeft="8dp"
+                >
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:elevation="4dp"
+                    android:background="@drawable/spons_draw"
+                    >
+                    <util.android.textviews.FontTextView
+
+                        android:padding="8dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="rules and regulations"
+                        android:fontFamily="ass.ttf"
+                        android:layout_centerInParent="true"
+
+                        android:textSize="30sp"
+                        android:textColor="#ffffff"/>
+                </RelativeLayout>
+                <TextView
+                    android:layout_marginTop="8dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/guide_acco_rules"
+                    android:textSize="15sp"
+                    android:padding="8dp"
+
+                    android:layout_gravity="center"
+                    android:textColor="#ffffff"/>
+            </LinearLayout>
+        </LinearLayout>
+
+
+
+    </ScrollView>
+
+</LinearLayout>

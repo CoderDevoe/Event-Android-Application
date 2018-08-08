@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:background="@color/colorBlack"
+    tools:context=".StartActivity">
+    <com.cunoraz.gifview.library.GifView
+        android:id="@+id/gif_main"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:visibility="gone"
+        custom:gif="@drawable/magic"
+        custom:layout_constraintBottom_toBottomOf="parent"
+        custom:layout_constraintLeft_toLeftOf="parent"
+        custom:layout_constraintRight_toRightOf="parent"
+        custom:layout_constraintTop_toTopOf="parent"/>
+
+    <com.cunoraz.gifview.library.GifView
+        android:id="@+id/gif_main1"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_marginTop="8dp"
+        android:visibility="gone"
+        custom:gif="@drawable/load"
+        custom:layout_constraintBottom_toBottomOf="parent"
+        custom:layout_constraintHorizontal_bias="0.501"
+        custom:layout_constraintLeft_toLeftOf="parent"
+        custom:layout_constraintRight_toRightOf="parent"
+        custom:layout_constraintTop_toBottomOf="@+id/gif_main"
+        custom:layout_constraintVertical_bias="0.11" />
+
+
+</android.support.constraint.ConstraintLayout>

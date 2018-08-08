@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "540118064342",
+    "firebase_url": "https://talenttantra-codern.firebaseio.com",
+    "project_id": "talenttantra-codern",
+    "storage_bucket": "talenttantra-codern.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540118064342:android:37c86c5bd2cd0df9",
+        "android_client_info": {
+          "package_name": "com.example.devashish.tt20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540118064342-e97mjl4ofkdpa133lm92bdhmmht6aleo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSglwUCSm2JKYUzdtd7xbEpfm3fXSEAC4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/colorBack"
+        android:animateLayoutChanges="true"
+        tools:context="com.example.devashish.tt20.FrontUI.featuredFragment">
+    <ScrollView
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+
+        android:fillViewport="true"
+        android:overScrollMode="never"
+
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp"
+        >
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <ss.com.bannerslider.views.BannerSlider
+        android:id="@+id/banner_slider1"
+
+        android:layout_width="match_parent"
+        android:layout_height="230dp"
+
+        app:animateIndicators="true"
+        app:defaultIndicators="dash"
+        app:interval="5000"
+
+        app:loopSlides="true">
+
+    </ss.com.bannerslider.views.BannerSlider>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp">
+        <com.jackandphantom.circularprogressbar.CircleProgressbar
+            android:id="@+id/comic"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+android:layout_centerInParent="true"
+            android:background="@drawable/circle"
+            app:cpb_foregroundProgressColor="#181818"
+            app:cpb_foregroundProgressWidth="13"
+            app:cpb_progress="100"
+            app:cpb_roundedCorner="true"
+            app:cpb_touchEnabled="false"
+            />
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginBottom="8dp"
+            android:layout_marginTop="8dp"
+            android:src="@drawable/comicon"
+            android:layout_centerInParent="true"
+            />
+    </RelativeLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="12"
+        >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_weight="4">
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+                <com.jackandphantom.circularprogressbar.CircleProgressbar
+                    android:id="@+id/days"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_marginBottom="8dp"
+                    android:layout_marginEnd="8dp"
+                    android:layout_marginStart="8dp"
+                    android:layout_marginTop="8dp"
+                    android:background="@drawable/shadow"
+                    app:cpb_foregroundProgressColor="#5F051F"
+                    app:cpb_foregroundProgressWidth="15"
+                    app:cpb_progress="50"
+                    app:cpb_roundedCorner="true"
+                    app:cpb_touchEnabled="false"
+                    android:layout_centerInParent="true"
+                    />
+                <TextView
+                    android:id="@+id/daystext"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    android:text="23"
+                    android:textAlignment="center"
+                    android:textColor="#ffffff"
+                    android:layout_centerInParent="true"
+                    android:textSize="20sp"
+                 />
+            </RelativeLayout>
+            <TextView
+                android:id="@+id/dt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginRight="8dp"
+                android:text="day"
+                android:textAlignment="center"
+                android:textColor="#ffffff"
+                android:textSize="25sp"
+
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_weight="4">
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+                <com.jackandphantom.circularprogressbar.CircleProgressbar
+                    android:id="@+id/hours"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_marginBottom="8dp"
+                    android:layout_marginEnd="8dp"
+                    android:layout_marginStart="8dp"
+                    android:layout_marginTop="8dp"
+                    android:background="@drawable/shadow"
+                    app:cpb_foregroundProgressColor="#5F051F"
+                    app:cpb_foregroundProgressWidth="15"
+                    app:cpb_progress="50"
+                    app:cpb_roundedCorner="true"
+                    app:cpb_touchEnabled="false"
+                    android:layout_centerInParent="true"
+                    />
+
+
+
+                <TextView
+                    android:id="@+id/hourstext"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    android:text="23"
+                    android:textAlignment="center"
+                    android:textColor="#ffffff"
+                    android:layout_centerInParent="true"
+                    android:textSize="20sp"
+                />
+
+            </RelativeLayout>
+
+            <TextView
+                android:id="@+id/ht"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginRight="8dp"
+                android:text="hrs"
+                android:textAlignment="center"
+                android:textColor="#ffffff"
+                android:textSize="25sp"
+                 />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="4"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <com.jackandphantom.circularprogressbar.CircleProgressbar
+                    android:id="@+id/mins"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_centerInParent="true"
+                    android:layout_marginBottom="8dp"
+                    android:layout_marginEnd="8dp"
+                    android:layout_marginStart="8dp"
+                    android:layout_marginTop="8dp"
+                    android:background="@drawable/shadow"
+                    app:cpb_foregroundProgressColor="#5F051F"
+                    app:cpb_foregroundProgressWidth="15"
+                    app:cpb_progress="50"
+                    app:cpb_roundedCorner="true"
+                    app:cpb_touchEnabled="false" />
+
+
+                <TextView
+                    android:id="@+id/minstext"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:layout_marginTop="8dp"
+                    android:text="23"
+                    android:textAlignment="center"
+
+                    android:textColor="#ffffff"
+                    android:textSize="20sp" />
+
+            </RelativeLayout>
+
+            <TextView
+                android:id="@+id/mt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginRight="8dp"
+                android:text="min"
+                android:textAlignment="center"
+                android:textColor="#ffffff"
+                android:textSize="25sp" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_weight="4">
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+
+                <com.jackandphantom.circularprogressbar.CircleProgressbar
+                    android:id="@+id/secs"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_marginBottom="8dp"
+                    android:layout_marginEnd="8dp"
+                    android:layout_marginRight="16dp"
+                    android:layout_marginStart="8dp"
+                    android:layout_marginTop="8dp"
+                    android:background="@drawable/shadow"
+                    app:cpb_foregroundProgressColor="#5F051F"
+                    app:cpb_foregroundProgressWidth="15"
+                    app:cpb_progress="50"
+                    app:cpb_roundedCorner="true"
+                    app:cpb_touchEnabled="false"
+                    android:layout_centerInParent="true" />
+
+
+                <TextView
+                    android:id="@+id/secstext"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    android:text="23"
+                    android:textAlignment="center"
+                    android:textColor="#ffffff"
+
+                    android:textSize="20sp"
+                  android:layout_centerInParent="true" />
+
+            </RelativeLayout>
+            <TextView
+                android:id="@+id/st"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:layout_gravity="center"
+                android:text="sec"
+                android:textAlignment="center"
+                android:textColor="#ffffff"
+                android:textSize="25sp"
+                />
+        </LinearLayout>
+    </LinearLayout>
+
+<RelativeLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/roundrect"
+    android:layout_margin="8dp"
+    android:elevation="4dp">
+        <TextView
+            android:id="@+id/desc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:padding="4dp"
+            android:text="@string/desctt"
+            android:textAlignment="center"
+            android:textColor="#ffffff"
+            android:textSize="15sp" />
+    <ImageView
+        android:id="@+id/descread"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+       android:layout_below="@id/desc"
+        android:src="@drawable/read"
+           android:elevation="4dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+       />
+</RelativeLayout>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@drawable/roundrect"
+    android:layout_margin="8dp"
+    android:elevation="4dp">
+   <RelativeLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:elevation="4dp"
+       android:background="@drawable/spons_draw"
+       >
+       <TextView
+           android:id="@+id/spons"
+           android:padding="8dp"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="sponsors &amp; media associates"
+           android:layout_centerInParent="true"
+            android:textAlignment="center"
+           android:textSize="30sp"
+           android:textColor="#ffffff"/>
+   </RelativeLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center"
+        >
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="8dp"
+            android:layout_gravity="center">
+            <com.jackandphantom.circularprogressbar.CircleProgressbar
+
+                android:layout_width="85dp"
+                android:layout_height="85dp"
+                android:layout_centerInParent="true"
+                android:background="@drawable/circle"
+                app:cpb_foregroundProgressColor="#181818"
+                app:cpb_foregroundProgressWidth="15"
+                app:cpb_progress="100"
+                app:cpb_roundedCorner="true"
+                app:cpb_touchEnabled="false"
+                />
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="8dp"
+                android:src="@drawable/brajaj"
+                android:layout_centerInParent="true"
+                />
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="8dp">
+            <com.jackandphantom.circularprogressbar.CircleProgressbar
+
+                android:layout_width="85dp"
+                android:layout_height="85dp"
+                android:layout_centerInParent="true"
+                android:background="@drawable/circle"
+                app:cpb_foregroundProgressColor="#181818"
+                app:cpb_foregroundProgressWidth="15"
+                app:cpb_progress="100"
+                app:cpb_roundedCorner="true"
+                app:cpb_touchEnabled="false"
+                />
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="8dp"
+                android:src="@drawable/grupshup"
+                android:layout_centerInParent="true"
+                />
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="8dp">
+            <com.jackandphantom.circularprogressbar.CircleProgressbar
+
+                android:layout_width="85dp"
+                android:layout_height="85dp"
+                android:layout_centerInParent="true"
+                android:background="@drawable/circle"
+                app:cpb_foregroundProgressColor="#181818"
+                app:cpb_foregroundProgressWidth="15"
+                app:cpb_progress="100"
+                app:cpb_roundedCorner="true"
+                app:cpb_touchEnabled="false"
+                />
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="8dp"
+                android:src="@drawable/newslive"
+                android:layout_centerInParent="true"
+                />
+        </RelativeLayout>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center"
+        >
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="8dp">
+            <com.jackandphantom.circularprogressbar.CircleProgressbar
+
+                android:layout_width="85dp"
+                android:layout_height="85dp"
+                android:layout_centerInParent="true"
+                android:background="@drawable/circle"
+                app:cpb_foregroundProgressColor="#181818"
+                app:cpb_foregroundProgressWidth="15"
+                app:cpb_progress="100"
+                app:cpb_roundedCorner="true"
+                app:cpb_touchEnabled="false"
+                />
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="8dp"
+                android:src="@drawable/sm"
+                android:layout_centerInParent="true"
+                />
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="8dp">
+            <com.jackandphantom.circularprogressbar.CircleProgressbar
+
+                android:layout_width="85dp"
+                android:layout_height="85dp"
+                android:layout_centerInParent="true"
+                android:background="@drawable/circle"
+                app:cpb_foregroundProgressColor="#181818"
+                app:cpb_foregroundProgressWidth="15"
+                app:cpb_progress="100"
+                app:cpb_roundedCorner="true"
+                app:cpb_touchEnabled="false"
+                />
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="8dp"
+                android:src="@drawable/pnp"
+                android:layout_centerInParent="true"
+                />
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="8dp">
+            <com.jackandphantom.circularprogressbar.CircleProgressbar
+
+                android:layout_width="85dp"
+                android:layout_height="85dp"
+                android:layout_centerInParent="true"
+                android:background="@drawable/circle"
+                app:cpb_foregroundProgressColor="#181818"
+                app:cpb_foregroundProgressWidth="15"
+                app:cpb_progress="100"
+                app:cpb_roundedCorner="true"
+                app:cpb_touchEnabled="false"
+                />
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="8dp"
+                android:src="@drawable/dainik"
+                android:layout_centerInParent="true"
+                />
+        </RelativeLayout>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center"
+        >
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="8dp">
+            <com.jackandphantom.circularprogressbar.CircleProgressbar
+
+                android:layout_width="85dp"
+                android:layout_height="85dp"
+                android:layout_centerInParent="true"
+                android:background="@drawable/circle"
+                app:cpb_foregroundProgressColor="#181818"
+                app:cpb_foregroundProgressWidth="15"
+                app:cpb_progress="100"
+                app:cpb_roundedCorner="true"
+                app:cpb_touchEnabled="false"
+                />
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="8dp"
+                android:src="@drawable/vision"
+                android:layout_centerInParent="true"
+                />
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="8dp">
+            <com.jackandphantom.circularprogressbar.CircleProgressbar
+
+                android:layout_width="85dp"
+                android:layout_height="85dp"
+                android:layout_centerInParent="true"
+                android:background="@drawable/circle"
+                app:cpb_foregroundProgressColor="#181818"
+                app:cpb_foregroundProgressWidth="15"
+                app:cpb_progress="100"
+                app:cpb_roundedCorner="true"
+                app:cpb_touchEnabled="false"
+                />
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="8dp"
+                android:src="@drawable/firstlady"
+                android:layout_centerInParent="true"
+                />
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="8dp">
+            <com.jackandphantom.circularprogressbar.CircleProgressbar
+
+                android:layout_width="85dp"
+                android:layout_height="85dp"
+                android:layout_centerInParent="true"
+                android:background="@drawable/circle"
+                app:cpb_foregroundProgressColor="#181818"
+                app:cpb_foregroundProgressWidth="15"
+                app:cpb_progress="100"
+                app:cpb_roundedCorner="true"
+                app:cpb_touchEnabled="false"
+                />
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="8dp"
+                android:src="@drawable/barcode"
+                android:layout_centerInParent="true"
+                />
+        </RelativeLayout>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center"
+        >
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="8dp">
+            <com.jackandphantom.circularprogressbar.CircleProgressbar
+
+                android:layout_width="85dp"
+                android:layout_height="85dp"
+                android:layout_centerInParent="true"
+                android:background="@drawable/circle"
+                app:cpb_foregroundProgressColor="#181818"
+                app:cpb_foregroundProgressWidth="15"
+                app:cpb_progress="100"
+                app:cpb_roundedCorner="true"
+                app:cpb_touchEnabled="false"
+                />
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="8dp"
+                android:src="@drawable/raju"
+                android:layout_centerInParent="true"
+                />
+        </RelativeLayout>
+    </LinearLayout>
+</LinearLayout>
+
+
+</LinearLayout>
+
+    </ScrollView>
+    </android.support.constraint.ConstraintLayout>
+
+
+
+

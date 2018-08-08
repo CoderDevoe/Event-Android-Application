@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="batman">
+        <item>#003C3734</item>
+    </string-array>
+    <string-array name="red_wine">
+        <item>#5F051F</item>
+        <item>#5F051F</item>
+        <item>#5F051F</item>
+        <item>#5F051F</item>
+        <item>#5F051F</item>
+    </string-array>
+<string-array name="titles_burniton">
+    <item>classical</item>
+    <item>modern</item>
+    <item>adaptune</item>
+</string-array>
+    <string-array name="titles_burniton_modern">
+        <item>solo</item>
+        <item>group</item>
+    </string-array>
+    <string-array name="titles_mattermind">
+        <item>ad mania</item>
+        <item>fuel your dream</item>
+        <item>quizoholic</item>
+    </string-array>
+    <string-array name="titles_focusia">
+        <item>selfie mania x</item>
+        <item>movie making</item>
+        <item>rowdkasioli</item>
+    </string-array>
+    <string-array name="titles_rangmanch">
+        <item>skit/play competition</item>
+        <item>just a minute</item>
+    </string-array>
+    <string-array name="polluted_waves">
+        <item>#394948</item>
+        <item>#5a7874</item>
+        <item>#499092</item>
+        <item>#43abae</item>
+        <item>#6ecfd2</item>
+    </string-array>
+
+    <string-array name="medical_express">
+        <item>#a3a3a3</item>
+        <item>#bbbbbb</item>
+        <item>#cccccc</item>
+        <item>#dddddd</item>
+        <item>#eeeeee</item>
+    </string-array>
+
+    <string-array name="vertical_ntb">
+        <item>#df5a55</item>
+        <item>#f9bb72</item>
+        <item>#76afcf</item>
+        <item>#dd6495</item>
+        <item>#72d3b4</item>
+        <item>#563d91</item>
+        <item>#56342e</item>
+        <item>#8c9f58</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,76 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="310dp"
+    android:layout_height="wrap_content"
+    tools:context="com.example.devashish.tt20.FrontUI.AboutDialogFragment"
+    android:background="@color/colorPrimary"
+    android:orientation="vertical"
+    android:layout_gravity="center">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:orientation="vertical"
+     >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#5F051F"
+            android:elevation="4dp"
+            android:padding="10dp">
+
+            <TextView
+                android:id="@+id/diagt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:text="talent tantra"
+                android:layout_centerHorizontal="true"
+                android:textColor="#000000"
+                android:textStyle="bold"
+                android:textSize="35sp"
+                android:elevation="2dp"/>
+        </RelativeLayout>
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+   android:textAlignment="center"
+    >
+
+    <TextView
+        android:id="@+id/diagdesc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/desctt2"
+        android:textAlignment="center"
+        android:textColor="#ffffff"
+        android:padding="8dp"
+        android:textSize="18sp"
+        android:scrollbars="vertical"/>
+</ScrollView>
+        <RelativeLayout
+            android:id="@+id/exit_lay"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:background="#1c1c1c"
+            android:elevation="-4dp"
+           >
+            <TextView
+                android:id="@+id/exit"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="exit"
+                android:textColor="#5F051F"
+                android:textStyle="bold"
+                android:textSize="35sp"
+
+                android:layout_centerInParent="true"/>
+        </RelativeLayout>
+    </LinearLayout>
+
+
+</LinearLayout>

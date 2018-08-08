@@ -1,0 +1,577 @@
+<resources>
+    <string name="app_name">TT2.0</string>
+    <string name="action_settings">Settings</string>
+    <string name="title1">Event name 1</string>
+    <string name="desctt">This year Talent Tantra is going to rock your socks off! Are your ready to head back into your childhood world of comics and superheroes?</string>
+    <string name="desctt2">This year Talent Tantra is going to rock your socks off! Are your ready to head back into your childhood world of comics and superheroes?\n At Talent Tantra 2018, we will bring to you your favourite comic characters, punched in with a whole lot of fun and a bout of nostalgia!\nJoin us on the 3-day extravaganza - a one-of-a-kind platform to showcase your talents - with fun, food, music, dance and a doze of healthy competition!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lagori_desc">Lagori makes music that reflects the face of the modern Indian youth. This Bangalore-based band combines Indian classical melodies and inflections with Rock music, resulting in an interesting mix that is high on energy, while being catchy and soulful at the same time.</string>
+    <string name="sunburn_desc">Sunburn is amongst the world’s biggest music festivals. It is an eclectic mix of music, entertainment, experiences, celebration and lifestyle.</string>
+    <string name="amit_trivedi_desc">Amit Trivedi is an Indian film composer, musician, singer and lyricist, working in Bollywood. After working as a theatre and jingle composer and composing for non-film albums, he debuted as a film composer in the 2008 Hindi film Aamir, and shot to fame in the Hindi film music scene with his critically acclaimed work in the more popular Dev.D (2009), which earned him several accolades, including the 2010 National Film Award for Best Music Direction for Dev.D.</string>
+    <string name="moksh_desc">A rock band is a mysterious thing. Somehow, every once in a while, a few individuals bump into one another, and they look exactly right together and share a focus and an aspiration and the right balance of musical similarities and differences. - Alan Light</string>
+    <string name="moksh_rules">1. Bands can perform in any language.\n\n
+2. A participant can play for only one band.\n\n
+3. The event is open to all.\n\n
+4. Per band will be given 20 minutes for the performance on stage including setup time.\n\n
+5. If a band exceeds the time limit, they will be negatively marked.\n\n
+6. Obscenity/use of offensive words will strictly lead to negative marking or disqualification.\n\n
+7. Judges decision will be final.\n\n
+8. One Original Composition and One Cover is mandatory.</string>
+    <string name="moksh_format">1. It is a Semi Pro Western event.\n\n
+2. Four winning bands from each of the Outreach live prelims will qualify for the finale.\n\n
+3. Tightness of the band and original composition will be given extra weightage.\n\n
+4. Instruments provided- 5 piece drum kit with (1 ride, 2 crashes, 1 hi-hat &amp; china)\n\n
+5. The choice of genre is left to the band.\n\n</string>
+
+    <string name="singphonic_desc">All the singers, It is time, Pull up your socks as solo singing challenge is coming your way!</string>
+    <string name="singphonic_rules1">1. There will be a time limit of 3 minutes. A warning bell will be rung before the time is up.\n\n
+2. If a contestant exceeds the time limit, he or she will be negatively marked.\n\n
+3. Marking will be on the basis of presentation of Sur, Taal, Laya and Pronunciation.\n\n
+4. Any song of the contestant\’s choice (classical, semi-classical, modern, western) can be sung.\n\n
+5. Band of musicians will be provided (if required).\n\n
+6. Playing of tracks will not be allowed.\n\n
+7. Rehearsal with the musical team will not be allowed.\n\n
+8. No gadgets or paper will be allowed on stage for lyrics.\n\n
+9. Judges decision will be the final decision.\n\n
+10. Top 15 participants will go to the next round.</string>
+    <string name="singphonic_rules2">1. Time limit: 5mins. If a contestant exceeds the time limit, he or she will be negatively marked.\n\n
+2. Any song of the contestant\’s choice (classical, semiclassical, modern,western) can be sung. Songs sung in the first round cannot be repeated.\n\n
+3. Band of musicians will be provided compulsorily for this round.\n\n
+4. Playing of tracks will not be allowed.\n\n
+5. Rehearsal with the musical band will not be allowed.\n\n
+6. No gadgets or paper will be allowed on stage for lyrics.\n\n
+7. Judges decision will be the final decision.\n\n
+8. Judges can also give a song of their choice to sing. In this case, if the lyrics are unknown, the contestant can use external resources.\n\n
+9. Marking will be on the basis of presentation of Sur, Taal, Laya and Pronunciation.</string>
+    <string name="falsetto_desc">Falsetto is back with the music that will touch your soul! We bring to you the much awaited unplugged singing competition</string>
+    <string name="falsetto_rules">1. There are two ways one can participate in the competition.\n
+ 1. Solo\n
+ 2. Group\n\n
+2. If you are performing solo :\n
+  1. Sound check : 2 mins.\n
+  2. Performance time: 6mins.\n\n
+  If you are performing in group:\n
+   Sound check : 3 mins.\n
+   Performance time : 6mins.\n\n
+3. Please note that:\n
+ 1. Synthesisers if used, shall be used only in piano tones. No splitting or layering is allowed.\n\n
+ 2. Playing of any pre recorded sound in any medium will lead to direct disqualification.\n\n
+ 3. No restrictions of language or genre.\n\n
+ 4. Decision of the judges will be final.\n\n
+ 5. Every kinds of acoustic instrument are allowed.\n\n
+ 6. If a participate is accompanied by one instrument it will be considered as solo, more than one instrument will be considered as a group.</string>
+    <string name="burniton_desc_classical">It is a conventional dance form, revealing the emotions through poetry or dance drama.</string>
+    <string name="burniton_classical_rules">1.Solo performance only.\n\n
+2.There will be only one round from which the winner will be chosen.\n\n
+3.Maximum time allotted for each performance is 4-5 minutes.\n\n
+4.The track should be mailed to kuburniton2018@gmail.com putting all the details including your name, contact details and category you are participating in by 3th of January in MP3 format.\n\n
+5.Participants who are late for the event will not be allowed to participate.\n\n
+6.The selection of the song should be done carefully. Tracks containing any indecent words will be immediately rejected by the committee.\n\n
+7.The decision of the judges will be FINAL.</string>
+    <string name="burniton_desc_modern_solo">An opportunity for all the artists who like to perform on their own – a solo dance competition</string>
+    <string name="burniton_desc_modern_solo_rules">1.The competition will have two rounds :ELIMINATION ROUND &amp; FINAL ROUND.\n\n
+2.The best performance in the first round (i.e. :ELIMINATION ROUND) will move onto the FINAL ROUND. Therefore the participants are requested to prepare TWO performances each.\n\n
+3.Maximum time allotted for each performance is 2-3 minutes for the ELIMINATION ROUND and 3-4 minutes for the FINAL ROUND.\n\n
+4.The track should be mailed to kuburniton2018@gmail.com putting all the details including your name, contact details and category you are participating in by 3th of January in MP3 format.\n\n
+5.Participants who are late for the event will not be allowed to participate.\n\n
+6.The selection of the song should be done carefully. Tracks containing any indecent words will be immediately rejected by the committee.\n\n
+7.The decision of the judges will be FINAL.</string>
+    <string name="burniton_desc_modern_group">We can\'t always choose the music life plays for us, but we can choose how we dance to it - A chance for all the groups to showcase their talent.</string>
+    <string name="burniton_desc_modern_group_rules">1.The competition will have two rounds :ELIMINATION ROUND &amp; FINAL ROUND.\n\n
+2.The best performance in the first round (i.e. :ELIMINATION ROUND) will move onto the FINAL ROUND. Therefore the participants are requested to prepare TWO performances each.\n\n
+3.The track should be mailed to kuburniton2018@gmail.com putting all the details including your name, contact details and category you are participating in by 3th of January in MP3 format.\n\n
+4.The group should consist of minimum of 4 and maximum of 8 members.\n\n
+5.Maximum time allotted for each performance is 3-4 minutes for the ELIMINATION ROUND and 4-5 minutes for the FINAL ROUND.\n\n
+6.Participants who are late for the event will not be allowed to participate.\n\n
+7.The selection of the song should be done carefully. Tracks containing any indecent words will be immediately rejected by the committee.\n\n
+8.The decision of the judges will be FINAL.</string>
+    <string name="burniton_desc_adaptune">A spot – choreo battle to bring out the passionate dancer in you! All you have to do is adapt to any music and dance your heart out!. So, come and get your groove on with some of the most incredible dancers!</string>
+    <string name="burniton_desc_adaptune_all">An All Style battle does not have any limit on the style or dance. </string>
+    <string name="burniton_desc_adaptune_breaking">Breaking is also called Bboying, is an athletic style of street dance. It is a type of dance that is done by people who are part of HIP HOP culture.</string>
+    <string name="burniton_desc_adaptune_rules">1.Solo performance only.\n\n
+2.A random tune/song will be played and the participant has to dance on spot.\n\n
+3.Participants will be judged on how they match the beats and showcase their dance styles on spot.\n\n
+4.Judging will be solely based on their dance performance.\n\n
+5.The decision made by the judges will be final.</string>
+    <string name="destroix_dota_rules">1) GENERAL:\n
+ 1) All the registered teams must be present at the venue in order to compete in the tournament, and know about the scheduled tournament bracket.\n\n
+ 2) Admins must to be notified straight away if any problem arises during the tournament.\n\n
+ 3) All the participating teams are responsible for their own matches, finding their opponents and starting the game.\n\n
+2) TEAMS:\n\n
+ 1)The registered team can consist of 7 players in total: 5 players and 2 stand-ins. All the 7 participants in the team must be signed up for the contest before game begins.\n\n
+ 2)All the teams must choose a captain. This person will be solely responsible for communication with the admins during the tournament.\n
+ 3)A player cannot play for, or sign up for more than one team in the tournament.\n\n
+3) TOURNAMENT FORMAT:\n\n
+ 1) Bo2 (Best of 2) will be played during the tournament.\n\n
+ 2) Losing team will be eliminated.\n\n
+ 3) Tournament Brackets will be made by the Admin.\n\n
+ 4) The final match will be of Bo3(best of 3)\n\n
+4) MATCH TIME:\n\n
+ 1) The team and its players are responsible for when their matches are being played (if any problems occur with the opposing team, please contact the admin straight away).\n\n
+ 2) To see when and against who your team is goimg to play contact the admin at the Game desk.\n\n
+ 3) Be aware of changes in schedule. Keep yourself updated by visiting the time schedule as often as you can.\n\n
+5) BEFORE THE GAME:\n\n
+ 1) The team must be ready to play at least 10 minutes before the match starts. Exceptions may occur if the opposing team is still in an ongoing match. If so, the match must be started as soon as the opponent team is ready.\n\n
+ 2) The teams must decide among themselves which team is to pick a side. The team that does not pick a side can choose which team begins the picking phase or whether to use random selection.\n\n
+6) GAME SETTINGS:\n\n
+ 1) Version: Tournament\n\n
+ 2) Series type: Best of 2\n\n
+ 3) Game mode: All Pick (if possible then captain’s mode)\n\n
+ 4) Penalty: None (see 8)\n\n
+7) DURING THE MATCH:\n\n
+ 1) If a team needs to pause the game, the opposing team shall be notified before the pause is initiated. (Exception: If a player is disconnected, no notification is required). A team can only pause the match by a total of 10 minutes. If a team needs to pause the game for more than 10 minutes, an Admin must be contacted immediately.\n\n
+ 2) Spam and bad manners are not tolerated in the chat.\n\n
+ 3) If a team are to forfeit the match, GG or similar expression must be used before the team then disconnects from the server.\n\n
+8) PENALTIES:\n\n
+ 1) Different penalties that may be used during the tournament:\n\n
+  1) Penalties handled in-game\n\n
+   1) Penalty level 1: Not ready for the match start according to the schedule.\n\n
+   2) Penalty level 2: 5 minutes over time.\n\n
+   3) Penalty level 3: 10 minutes over time.\n\n
+   4) Exceptions may occur if a team is in a previous match, or if an Admin is contacted and have approved the matter.\n\n
+   5) Admins must be contacted if a team is not ready at the given time according to schedule, and will deliver penalties hereinafter\n\n
+ 2) Penalties handled outside the game:\n\n
+  1) Walkover\n\n
+  2) Disqualified teams\n\n
+  3) Disqualified player\n\n
+ 3) Please note that an Admin can change the penalties and the penalty levels without given notice. The teams are responsible for keeping themselves updated on the tournament rules, and we encourage every team to check for changes as often as they can.\n\n
+9) The decision of the admin will be the final decision.</string>
+    <string name="destroix_cod_rules">1)Competition Method: 5 vs 5 (5 players per team).\n
+2)Maps: Crossfire, Backlot, Crash, District, Strike.\n
+3)Guns:\n
+ 1) Assault rifles : AK-47, M4 Carbine, M16A4, G36C.\n
+ 2) Sub Machine Guns: MP5, AK74u,P90.\n\n
+ 3) Snipers : M40A3, R700.\n
+ 4) PERKS:\n
+  1) PERK 1 : Special Grenades * 3, Frag * 3, Bandolier\n
+  2) PERK 2 : Stopping Power, Sleight of Hand, Double Tap.\n
+  3) PERK 3 : Extreme Conditioning, Steady Aim, Deep Impact, Iron Lungs.\n
+ 5) Attachment: Red Dot.\n
+4)Match Options:\n
+ Round length: 2.5 minutes.\n
+ Bomb Timer: 45 seconds.\n
+ Plant Time: 5 seconds.\n
+ Defuse Time: 7.5 seconds.\n
+ Multi-bomb: NO.\n
+ Score Limit: 12 points.\n
+ Round Switch: Every 3 rounds.\n
+ Kill Cam: Disabled\n
+ Friendly Fire : Disabled\n
+5)The decision of the admin will be the final decision.\n
+6)Players are requested to bring their own gaming accessories along with earphones/headphones.</string>
+    <string name="destroix_nfs_rules">1) Qualifying is on the basis of lap time (Fixed track and car for all contestants)\n
+2) The top 64 qualify for the next round for Players Vs Players - (16 races) (16×4)\n
+3) The winners of every race qualify for the semi-finals (4 races) (4×4)\n
+4) Winners of every semi-final goes on to the finals.\n
+5) Keyboards will be provided but personal keyboards can also be used.\n
+6) The decision of the organizing coordinators will be the final decision.\n
+Tracks :\n
+ Round 1- Highway 99 &amp; State\n
+ Round 2- Industrial\n
+ Round 3- NFS World loop\n
+ Round 4- Hestings\n</string>
+    <string name="destroix_fifa_rules">1) Till round 16, the teams will be limited and the time will be 6 minutes.\n
+2) From round 16, all the teams will be open for participants to choose from.\n
+3) The time limit for semi-finals is 8 minutes.\n
+4) The time limit for the finals is 10 minutes.\n
+5) World XI &amp; Classic XI are restricted.\n
+6) Bring your own gaming controller.\n
+7) The decision of the admin will be the final decision.\n
+8) Players are requested to bring their own gaming accessories for their comfortless.
+</string>
+    <string name="destroix_cr_rules">1) Players will have to join our clan.\n
+2) Your phone your data\n
+3) Initial stages of the battle will be taken as knock off rounds.\n
+4) Best of 3 will be conducted in knock off round.\n
+5) Winner goes to the next match.\n
+6) The decision of the admin will be the final decision.\n
+7) In case of a tie a rematch will take place and the player can change the deck during that match.\n
+8) Best of 5 will be conducted in semifinal and final battle.\n
+9) Players should bring their own mobile phone.
+</string>
+    <string name="destroix_mm_rules">1) Match length- 08:00 min.\n
+2) Map allowed- Catacombs, High Tower, Snow Blind and Bottle Neck.\n
+3) Weapons not allowed- Sniper, Launcher, Shield &amp; Laser.\n
+4) Participants should switch their device to “Air Plane Mode”.\n
+5) The organizer has the right to disqualify any registered player from the tournament for any valid reasons.\n\n
+Single Player Match:\n
+1) If one contestant wins the one single player match, then he/she will earn free entry for only one single player match.\n
+2) If contestants are found using unfair means he/she will be disqualified immediately without any refund.\n
+3) No hack version or rooted device will be allowed.\n
+4) The decision of the admin will be the final decision.\n
+5) Players should bring their own mobile phone.\n\n
+Team Death Match:\n
+1) A team will consist of two members.\n
+2) The winning team will get a 50% discount on the re-joining fee for one match.\n
+3) If any team is found using unfair means they will be disqualified immediately without any refund.\n
+4) No hack version or rooted device will be allowed.\n
+5) The decision of the admin will be the final decision.\n
+6) Players should bring their own mobile phone.
+</string>
+    <string name="sports_arm_regulations">1.The minimum age required for competing at all KU Championships is 18 years old.\n\n
+2.KU Tournaments will be double elimination competition, with the exception of the Ultimate Match Up\'s, these are One on One best of 3 rounds.\n\n
+3.KU Tournaments will use a minimum of 2 referees per table, with the exception of the Ultimate Match Up\'s where we use only 1.\n\n
+4.KU Tournaments will allow 60 seconds total for competitors to arrive at table and attempting to grip (30 seconds to arrive, 30 seconds to grip). Competitors will receive call number one, and then call number two thirty seconds later. Failure to be at the table gripping up within time limit will result in a loss.\n\n
+5.KU Tournaments will run on several tables, with the exception of the Ultimate Match Up\'s, which will take place on one table only.\n\n
+6.Each weight class will be run until the last four competitors, 2 winners - 2 losers, then finals run for all classes.\n\n
+7.No contestant will be matched twice against the same person until the finals 1st-4th. KU Ultimate Match Up\'s not included.\n\n
+8.No weight allowance will be given.\n\n
+9.All competitors must weigh in, in order to compete during designated registration times only.\n\n
+10.Competitors may only wear KU approved apparel unless authorized at referee discretion.\n\n
+11.Competitors may not wear items on their competing hand, only at the referee\'s discretion.\n\n
+12.Anyone with long hair will have to have their hair restrained in some fashion. Hats or bands are permitted but must be turned around backwards.\n\n
+13.Once a referee is on a table, he/she may not be replaced for any match.\n\n
+14.Only powder or liquid Caulk is permitted.\n\n
+15.Straps will be used if slip of grip occurs and if not determined to be an intentional slip.\n\n
+16.Platform shoes may be used for height compensation in stand up KU Tournaments, platforms may be used with head referee approval.\n\n
+17.Sportsmanship will prevail, failure to comply will result in a foul or immediate termination from contest.\n\n
+18.Any individual(s) attempting to alter weight by not following proper weigh in conduct/procedure will be disqualified from the event.\n\n
+19.The head referee may give a disabled puller some allowances for his handicap.\n\n
+20.You can only pin your opponent on the winning side of the table.\n\n
+21.As with any sport there is an inherent risk participating in the KU Tournaments / Ultimate Match Up\'s and you must protect yourself at all times, if you feel unfit to compete in this event, you must remove yourself for the competition immediately or at referee’s discretion.\n\n
+22.A pin is when any part of the natural wristline to finger tips, touches or goes below the touch pad.\n\n
+23.At the end of the match the referee will say “Stop or Match” and indicate the winner by raising his arm towards him/her. Never stop armwrestling until referee has stopped the match.\n\n
+24.Referee\'s decision will be final at all times.</string>
+    <string name="sports_arm_rules">1.Competitors are allowed 60 seconds total for competitors to arrive at table and attempting to grip (30 seconds to arrive, 30 seconds to grip). Competitors will receive call number one, and then call number two thirty seconds later. Failure to be at the table gripping up within time limit will result in a loss.\n\n
+2.Free hand must be in contact with the peg at all times, unless authorized by head referee.\n\n
+3.Competing elbow must be placed on the elbow pad at all times.\n\n
+4.Competing elbow must not extend beyond any side of the elbow pad, if the competitor is riding on their triceps or forearm.\n\n
+5.Thumb knuckles must be showing on competing hands before start of match.\n\n
+6.Referee must be able to pass closed fist between the hand, biceps and forearm of competitors before start of the match.\n\n
+7.Back pressure to the extent that it pulls your opponents arm across the marked center of the table will not be allowed. This infraction will be deemed as a warning.\n\n
+8.Any two warnings will consist of a foul.\n\n
+9.Competing wrists must be straight before start of match.\n\n
+10.Gripped hands must be in center of table.\n\n
+11.A period of 30 seconds will be allowed to grip properly.\n\n
+12.Referee\'s (set grip) grip must be administered after 30 second time period has lapsed (gripping).\n\n
+13.Referee\'s (set grip), No movement will be allowed with elbow, wrist, arm or hand during or immediately following administration of referee\'s grip, “unless advised from referee” to start the match. Thumb knuckle must be visible, 1st movement or covering of the thumb knuckle is a warning (during the closing your own hand), fouls will follow after a warning.\n\n
+14.Referee grip will be administered such as,\n\n
+  1)Competitor #1 &amp; #2 set your elbow (hands and webbing of thumb must be center of table). \n\n
+  2)Competitor #1 &amp; #2 set palm to palm (referee shall have hands on back of each hand and will insure the webbing are level and hands are centered, referee will move elbows if needed) \n\n
+  3)Competitor #1 close your thumb, #2 close your thumb, #1 close your hand, #2 close your hand (referee shall have hands on the back of each wrest during this setting)\n\n
+15.Audible signal given by referee shall be "DON\'T MOVE…..GO"\n\n
+16.Competitors may not use any part of the body to pin their opponent.\n\n
+17.Competitors may not intentionally slip grips. (example: closing the hand making a fist under your opponents hand or opening your hand creating the slip)\n\n
+18.Straps will be used if slipping of the grip occurs and if not determined to be an intentional slip.\n\n
+19.Competitors may not intentionally attempt to cause a foul for their opponent, i.e. shoving of elbow.\n\n
+20.No coincidental fouls.\n\n
+21.Any foul and the match is restarted.\n\n
+22.You must touch any part of the natural wrist line to finger tips, or go below the touch pad to be considered a win or match.\n\n
+23.Any "questionable match if deemed necessary the referee may restart the match".\n\n
+24.During the match the head referee can over ride a decision call based on a conference with the down side referees.</string>
+    <string name="sports_arm_fouls">Any two fouls and the competitor loses the match or, only one foul if the competitor is in the losing position.\n\n
+Note: Two warnings will equal one foul.\n\n
+1.Failure to maintain contact of the peg at all times after a warning.\n\n
+2.Failure to keep competing elbow on the elbow pad during the match.\n\n
+3.Failure to straighten wrists after 30 second time lapse.\n\n
+4.Failure to line up in center of table after 30 second time lapse.\n\n
+5.Movement of Elbow, Wrist, Arm or Hand during or immediately following administration of "referee grip".\n\n
+6.Competitor’s shoulder must not cross the “centerline” between pegs during competition.\n\n
+7.False starts will result in a foul on second offense. First offense is a warning.\n\n
+8.Back pressure to the extent that it pulls your opponents arm across the marked center of the table will not be allowed.\n\n
+9.Intentionally causing a delay in competition.\n\n
+10.Intentionally pushing of your own hand into an opponent’s shoulder will result in you getting a FOUL.\n\n
+11.Competitors cannot drop the top of the competing shoulder below the table top when the competing hand is on the losing side of the table.\n\n
+12.Competitor cannot use any other part of the body to pin their opponent such as chin, shoulder or head.\n\n
+13.Competitors must never force their shoulder inwards, ahead of their arm or hand, towards the table and must protect themselves at all times.\n\n
+14.If a competitor intentionally slips out during the match in a losing position (losing position is determined by being more than 2/3 rd of the way down to the pin pad), the competitor will lose that particular match. Any intentional slip is an automatic FOUL example: \n\n
+ 1)you lift your fingers off your opponent’s hand prior to a slippage.\n\n
+ 2)you close your fingers as to make a fist inside your opponent’s hand.\n\n
+ 3)you’re in break wrist position and you pull your fingers inside your opponents hand, therefore you are unable to hold your grip.\n\n
+15.Letting go of the peg will result in a warning being called to the offender, without stopping the match. If an advantage is gained prior to re-gripping the peg, the match will be stopped and the offender will be given a foul. Contact with the peg must be above the table. One armed or one hand persons do not have to grip the peg.\n\n
+16.Foul language, poor sportsmanship or abuse towards an official will result in a FOUL. If it continues, competitor or official will be barred from the tournament.</string>
+    <string name="sports_cricket_rules">1.Competition Method: 8 ON 8(8 PLAYERS PER TEAM).\n\n
+2.Proper Dresscode (TRACK PANT &amp; SHOES ARE COMPULSORY).\n\n
+3.Every Team Should Report Before 15MIN Of Start Of The Game To The Coordinators.\n\n
+4.Every Match Will Be Of 6 Overs.\n\n
+5.Only Two Bowlers Should Deliver Maximum Of Two Overs.\n\n
+6.There Will Be a POWER OVER ,i.e , Each Run Made Will Be Doubled On That Over. The Team has the Freedom of choosing the power over whenever they want in their respective innings.\n\n
+7.Any player of the loosing team will not be allowed to participate in other team. If found the team will be disqualified.\n\n
+8.All cricket&amp;personal equipmentshould be kept at their own risk.\n\n
+9.ALL extrasruns will be counted.\n\n
+10.Umpire decision will be last decision.\n\n
+11.Maximm team will be 16.\n\n
+12.Registration will be on the basis of 1st come 1st service.</string>
+    <string name="sports_football_rules">1.The game of Futsal is played on a court and it will be a full knockout tournament.\n\n
+2.Games are 2x10 minutes with one (1) half time.\n\n
+3.Clock may be stopped or time may be added, at the discretion of the referee, for injury, player cautioning, sending off, or any other circumstances resulting in loss of playing me.\n\n
+4.All teams must wear proper jerseys. 5. 5 players per team (4+GK) on court at once.\n\n
+6.Unlimited flying substitutions i.e. players can re-enter the game as many times as possible this includes goal keepers.\n\n
+7.There is no offside.\n\n
+8.Side-line kick-ins – The ball is placed on the side line and kicked to another Player.\n\n
+9.The goalkeeper can throw the ball over half way line on the full.\n\n
+10.Goalkeeper throws the ball in (instead of a goal kick) unless he/she saves it, then it can be drop kicked, punted, thrown or dribbled. Over the two-thirds line on the full.\n\n
+11.Goal keepers are not allowed to pick up a back pass from any of their team Players.\n\n
+12.Maximum of 11 players per team, per game.\n\n
+13.4 second time limit on kick-ins and free kicks starting when player is in position to play ball in.\n\n
+14.A player can score a goal direct from a corner.\n\n
+15.Players are not allowed to play the ball whilst on the ground except the goal keeper who can only do this within the goal “D”.\n\n
+16.The second penalty mare is 10 meters from the goal line.\n\n
+17.When the goal keeper restarts the game with a throw in the ball must go outside the “D” before any other player touches it.\n\n
+18.Both feet must be out side the court or on the line for a side line kick-in. Not in the court.\n\n
+19.Maximum number of teams will be 32.</string>
+    <string name="sports_basketball_rules">1.Official decision is the final decision.\n\n
+2.All team should have 12 members each.\n\n
+3.Players must carry their own student Id. No working Id will be accepted.\n\n
+4.All players should bring their proper jersey. No team will be allowed to play without proper jersey.\n\n
+5.All team must obey the rules and regulations of the college premises.</string>
+    <string name="sports_badminton_rules">Category: MAN DOUBLE and MIX DOUBLE.\n\n
+1.The competition will be conducted under the basic rules of badminton.\n\n
+2.All the matches will be held at best of three(3)basis (based on the no. Of participants).\n\n
+3.Participants are asked to carry their own gear.\n\n
+4.Yonex mavis 350(green) shuttles will be used for the matches.\n\n
+5.All the participants should register on 5th jan.</string>
+    <string name="mattermind_admania_format">A product will be given to each team. The teams will have to come up with a way to market the product, in the form of a commercial, which will have to be enacted and demonstrated by the team members. The teams will also have to make a poster ad for the product, which will then be presented.</string>
+    <string name="mattermind_admania_eligibility">The competition is open for teams comprising of XIIth standard, undergraduate and postgraduate students.</string>
+    <string name="mattermind_admania_rules">1.Participants will have to enact a commercial advertisement for the given product and make a poster for the same in a way which is quite appealing to audience.\n\n
+2.Product will be disclosed on the spot and each team will be given 30 mins to prepare for poster idea and commercial enactment.\n\n
+3.Number of Participants in a team: 2-4 members.\n\n
+4.Time allowed to present your prepared ad will be 5 minutes.\n\n
+5.The ad prepared by the contestant must not contain any obscene words/any subject that hurts the feelings of a culture/language/religion/region.\n\n
+6.Judging is done on the basis of team’s originality, humor and stage presence and usage of product.\n\n
+7.Negative marking for any disobedience of rules.\n\n
+8.The decision of the judge is final and abiding.</string>
+    <string name="mattermind_admania_formation_teams">1.Each team must comprise of minimum 2 members and maximum 4 members.\n
+2.Schools and colleges can have multiple teams.\n
+3.One participant cannot be a part of more than one team.\n
+4.No change of team structure is permitted after the team is registered.\n
+5.One of the team member should be Registered as Team Leader.</string>
+    <string name="mattermind_admania_general_rules">1.Teams will have unique team ID which will be allotted once the payment and registration process is complete. The teams are required to indicate team leader’s name during registration. All submissions, beginning executive summary, shall indicate the unique team ID and proposed venture name.\n\n
+2.The registration for the event closes on 4th January, 2018.\n\n
+3.Any supplementary information meant for the teams will be communicated directly to the team leader subsequently via email or messages.\n\n
+4.The registration fees for the competition would be Rs 200.\n\n
+5.The results will be declared on 7th January, 2018 and the participants can view the results on 10th January at our Website.\n\n
+6.The winners will be required to come to the institute during the Prize Distribution Ceremony of _____ on _____, 2018. 4:00 pm. If the team wishes they can participate in the entire _____ Fest from ______ after payment of appropriate fees.\n\n
+7.In case of any dispute the decision of organisers will be Final and will be settled in Jorhat Jurisdiction Area only.</string>
+    <string name="mattermind_fuel_eligibility">The competition is open for students of 12th standard, undergraduate and postgraduate levels.</string>
+    <string name="mattermind_fuel_formation_teams">1.Each team must comprise of minimum 1 member and maximum 3 members.\n\n
+2.Schools and colleges can have multiple teams.\n\n
+3.One participant cannot be a part of more than one team.\n\n
+4.No change of team structure is permitted after the team is registered.\n\n
+5.One of the team member should be Registered as Team Leader.</string>
+    <string name="mattermind_fuel_general_rules">1.Teams will have unique team ID which will be allotted once the payment and registration process is complete. The teams are required to register under the Team Leader’s name. All submissions should include an executive summary, which shall carry the unique team ID and proposed venture name.\n\n
+2.The registration for the event closes on 4th January, 2018.\n\n
+3.Any supplementary information meant for the teams will be communicated directly to the Team Leader subsequently via email or messages.\n\n
+4.The results will be announced by 7th January, 2018.\n\n
+5.In case of any dispute the decision of organisers will be Final.</string>
+    <string name="mattermind_fuel_rules">1.The participants are required to give a detailed business plan, very clearly demonstrating the way a particular problem is being addressed by business principles. The business plan submitted will be evaluated by a team consisting of the faculty members of the institute, entrepreneurs and corporate consultants.\n\n
+2.The participants must follow the font of 12 in Times New Roman for the main body and of 14 for the headings with a line spacing of 1.5 inch\n\n
+3.The business plan must be organized in the following manner:\n\n
+ (i) Cover Page (Proforma attached below)\n
+ (ii) Index\n
+ (iii) Executive Summary\n
+ (iv) Problem Statement\n
+ (v) Business Preposition\n
+ (vi) Marketing Plan\n
+ (vii) Organizational Plan\n
+ (viii) Financial Plan\n
+ (ix) References\n
+ (x) Appendices (for additional information, if required)\n
+4.A time limit of 10 minutes shall be applicable to present the B-Plan.\n\n
+5.Participants need to carry their own laptops.</string>
+    <string name="mattermind_fuel_evaluation">Comprehensiveness 20%\n
+Uniqueness 20%\n
+Marketability 20%\n
+Profitability 20%\n
+Economic Impact 20%</string>
+    <string name="mattermind_quiz_eligibility">The competition is open for students of 12th standard, undergraduate and postgraduate levels.</string>
+    <string name="mattermind_quiz_formation_teams">1.Each team must comprise of minimum 1 member and maximum 3 members.\n\n
+2.Schools and colleges can have multiple teams.\n\n
+3.One participant cannot be a part of more than one team.\n\n
+4.No change of team structure is permitted after the team is registered.\n\n
+5.One of the team member should be Registered as Team Leader.</string>
+    <string name="mattermind_quiz_general_rules">1.Teams will have unique team ID which will be allotted once the payment and registration process is complete. The teams are required to indicate team leader\’s name during registration. All submissions, beginning executive summary, shall indicate the unique team ID and proposed venture name.\n\n
+2.The registration for the event closes on 4th January, 2018.\n\n
+3.Any supplementary information meant for the teams will be communicated directly to the Team Leader subsequently via email or messages.\n\n
+4.The results will be announced by 7th January, 2018.\n\n
+5.In case of any dispute the decision of organisers will be Final.</string>
+    <string name="mattermind_quiz_requirements">1.Only team entries are eligible.\n\n
+2.A team shall consist of maximum 2 members.\n\n
+3.The decision of the quiz-master will be final.\n\n
+4.The participants shall not be allowed to use mobile or other electronic gadgets.\n\n
+5.The questions shall be in the form of multiple choice, True / False statement, Specific-answer question, etc.\n\n
+6.Audience shall not give any hints or clues to the competitors.\n\n
+7.Replacement of any participant of a team is not allowed after registration.\n\n
+8.Teams selected for the final rounds will be allowed to give themselves an appropriate name related to the competition by which they may want to be known.</string>
+    <string name="focusia_selfie_desc">Talent Tantra presents a one-of-a-kind online selfie competition for all you photo addicts! Click your selfie and send it to the WhatsApp number or email. Take a selfie and bring home an exciting prize!</string>
+    <string name="focusia_selfie_rules">1.Submitted photos will be uploaded to official Facebook Page of Kaziranga University.\n\n
+2.Highest numbers of Likes &amp; Shares in that photo will be declared as a winner.\n\n
+3.1 Like = 1 Points and 1 Share = 2 Points.\n\n
+4.Using Auto-Like or any other means of inappropriate bots will be disqualified.\n\n
+5.Photos must be submitted on or before 15 December 2017.\n\n
+6.Photos submitted should contain your Name and Institution name.\n\n
+7.Winner will be declared on 6th January 2018.</string>
+    <string name="focusia_selfie_photobooth">Grab a prop and strike a pose! Capture your memories with Talent Tantra’s special photo booth, which includes a wide array of props and frames! You can instantly print and take your home photos too!</string>
+    <string name="focusia_movie_desc">An opportunity to create a short film at Talent Tantra 2018. Direct your friends to act and produce a film with your mobile camera</string>
+    <string name="focusia_movie_rules">1.The participants will have to submit their videos by the evening of 6th January 2018.\n\n
+2.A team can have a minimum of 3 members and maximum of 5 members.\n\n
+3.The video must be recorded inside the KU campus.\n\n
+4.Participants are allowed to use a mobile camera of 5MP or above for recording the movie.\n\n
+5.No video recording or editing material will be provided by us for the competition.\n\n
+6.The video must not exceed 8 minutes to 10 minutes with credits.\n\n
+7.The winning entries will be chosen by a panel of judges and the result will be declared by the evening of the next day. The winning video may also be displayed at the closing ceremony of Talent Tantra.\n\n
+8.Decision of the organizers will be final.</string>
+    <string name="focusia_movie_note">It is suggested that participants should record the video with highest resolution and quality settings if possible</string>
+    <string name="focusia_rowd_note">For participants who have registered online, please mention the unique registration ID (RI- - - -) along with the photographs.</string>
+    <string name="focusia_rowd_desc">A Photography Competition &amp; Exhibition that will highlight the remarkable vision of the photographer in you!
+Interested participants-cum-exhibitors must submit their photographs in the prescribed format to the organizer before midnight, 1st January 2018. Each individual can submit a maximum of 2 photographs.</string>
+    <string name="focusia_rowd_rules">1.All files must be in jpeg format.\n\n
+2.The size of the file must not exceed more than 5 MB (300dpi) and in the ratio of 10*15.\n\n
+3.The submitter must have raw files of the corresponding image and must produce the same in case the organizers ask for it.\n\n
+4.Submissions should be done through online mode only.\n\n
+Naming it as: -“name_theme.jpg”, for e.g.Tridip_Gogoi_EMOTIONS.jpg, with your mobile number.\n\n
+Name: XYZ\n
+Theme: EMOTIONS/SHAPES\n
+Mobile no: 1234567899\n
+A/C No: xxxxxxxxxxx.\n
+If registered from online:- Add\n
+Registration ID: RExxxxxxxxxxx.\n
+And send it to focusia.kazirangauniversity@gmail.com by 1st January, midnight, 2018.\n\n
+5.The photos of all the selected participants will be displayed accordingly with a relevant matching theme.\n\n
+6.Watermarks are not allowed, owners will be given full credit.\n\n
+7.The winner will be chosen by a panel of judges and the result will be declared by the evening of the next day.\n\n
+8.Digital manipulation that distorts the reality of the photos will not be allowed. Only basic enhancements such as sharpening, contrast adjustment, or simple cropping will be allowed.\n\n
+9.The winners will be awarded with cash prize, certificates and gift hampers.\n\n
+10.Registration fees should be transferred to A/C no. 31809337673 IFSC: SBIN0013248 or you can also pay here through online registration.\n\n
+11.Account number of the participants through which amount will be transferred should be sent through email while submitting photos.
+</string>
+    <string name="perspective_crime_desc">The event starts with a murder scene. The participants are taken to the crime spot to examine. Then all the participants will be provided a minimum report on the victim and other essentials. After that the participants will have to find their own way to the killer. Additional information will be provided when they seek for it (only if it is a part of the murder).</string>
+    <string name="perspective_crime_rules">1.Each Team should have 2 members.\n\n
+2.Time Limit:  3 hrs.\n\n
+3.Participants are not allowed to carry phones or any other electronic devices.\n\n
+4.Participants are not allowed to fetch information or help from anyone other than the coordinators. (not even other fellow participants)\n\n
+5.if found of any misconduct, respective participants will be disqualified immediately.\n\n
+6.Participants must finish the event in the allotted time.\n\n</string>
+    <string name="perspective_treasure_desc">Scavenger Hunt, ( there will be a bonus round:-there will be dragon balls placed randomly in the university campus; if any group of participants finds all the 7 dragon balls, they are allowed to skip the scavenger hunt round and clues for the next round will be given immediately). Otherwise after completing scavenger hunt, they will be provided with clues; clues leading to the next location. Some clues will be encrypted, some will be puzzles, and some will be riddles.4 clues lead to the 4 pieces of the torn map. One map has an ‘X’ showing the last location of the treasure hunt. The last location will have a snakes and ladder board. The 100th house will have the treasure.</string>
+    <string name="perspective_treasure_rules">1.Time Limit:  3 and a half hour.\n\n
+2.Each Team should have 2 members.\n\n
+3.Participants are not allowed to use phones or any other electronic devices.\n\n
+4.Participants are prohibited to gather information from any other than the coordinators.\n\n
+5.Participants found of any misconduct will be disqualified immediately.\n\n
+6.Participants must finish the event in the allotted time.\n\n</string>
+    <string name="perspective_quiz_rules">1.Each Team should have 2 members.\n\n
+2. There will be a preliminary round if the number of groups increases above 6. In that preliminary round there will be a set of 8 questions of MCQ .The top 5 teams who scores the maximum correct answer will be qualified for the next round.\n\n
+3. The next round will be the general questions round comprising of various subjects like current affairs, history etc. This round will comprise of 10 points for each question.\n\n
+4. The third round will be based on Guess me who round. In this round the contestants will be given various clues and hints to guess out the correct personality or celebrity. Again this round will have 10 points for each question.\n\n
+5. After the conclusion of the third round there will be a spirit round comprising of 5 questions each of 10 points. During this round if a group gives a wrong answer then their group will receive -5 points.\n\n
+6. In the fifth round there will be Deviner le son round i.e. sound guessing round. In this the group will be given to hear an audio file of various celebrities, personalities, artisans, musicians, etc. They have to rightly answer whose voice it is.\n\n
+7. This round will be a special round for that group which has the maximum points. This round is called the juggernaut round. This round will comprise questions related to comics, anime and various cartoon shows. The twist in this is that if the top scorer group couldn't answer the questions then they can pass to any desired group. But the fun fact will be that if that group fails to answer then their score will be deducted elsewhere the top scorer will not be affected. This round will have only 3 questions.\n\n
+8. The last and final round will be again the general question round. But in this round there will be only 5 questions each having 20 points.</string>
+    <string name="perspective_face_desc">The event would be consisting of two members in a group. They will be given a topic and they must create their own and innovative design based on the given topic. They will be judged on the basis of their creativity, innovation and design.</string>
+    <string name="perspective_face_rules">1.Time Limit:  1 hr.\n\n
+2.Two member in each group (the one who will paint and other whose face will be painted)\n\n
+3.Theme will be given on the spot.\n\n
+4.Participants have to carry their own materials (brushes and colors etc.).\n\n
+5.The contestants must create their own (creative and innovative) designs, and they will be judged on the basis of that.\n\n
+6.Decision of the judges will be final and binding.\n\n
+7.Contestants must finish their work within the limited time allotted to them and cannot exceed it.\n\n</string>
+    <string name="perspective_comic_desc">This event would be consisting of either pairs or single contestants. They will be given a strip of a story randomly and they must create a comic strip based on it. Contestants can either sketch it or make it colorful depending on their preference.</string>
+    <string name="perspective_comic_rules">1.Team : Pair and Single.\n\n
+2.Time Limit :  15 - 20 Minutes.\n\n
+3.Contestants must finish the comic strip within the time limit allotted to them and cannot exceed it by any means.\n\n
+4.The contestants must create indigenous characters that must not be derived from any known comic characters as known from before.\n\n
+5.Only sketching articles would be presented, for example: pencil, eraser, markers, paper etc. Any other designing articles can be brought by the contestant.\n\n
+6.The registration fee for pair would be Rs.300/- and for single it would be Rs.200/-\n\n
+7.The contestants must make a comic strip based on the story that is provided to them. They can add their own creativity as much as they want, but they shouldn’t deviate too much from the main story.\n\n
+8.No limit is set for the number of frames the contestants should draw.\n\n
+9.The contestants can submit their comic strip before the time ends but not after it.</string>
+    <string name="perspective_love_desc">Participants will be given 30 minutes to express their feelings about a specific loved one of theirs. Three languages are allowed: Assamese, Hindi and English.</string>
+    <string name="perspective_love_rules">1.Time Limit :  30 Minutes.\n\n
+2.No phone or internet allowed during the competition.\n\n
+3.The whole letter should entirely be comprised of only one language. A random mixture of language in a letter is prohibited.\n\n</string>
+    <string name="perspective_mys_desc">This event will be in three stages.
+The team which has the maximum points in the end wins.
+The three stages will be a suprises.</string>
+    <string name="perspective_mys_rules">1.The members cannot use any electronic devices such as cellphones, smart watches or avail the use of internet for answering any questions.\n
+2.The members get only three attempts to guess the answer in the imitation round. Any answer blurted out, even if by mistake, would be considered an used chance.\n
+3.The participants can only ask the coordinators for help and no other person during the event.\n
+4.Any unruly behaviour or misconduct during the event would lead to disqualification and elimination of the team involved.</string>
+    <string name="technova_fried_rules"> 1)Participants can participate either single or in a group of two members.\n\n
+ 2)Prize money will be same for both single and both group of 2 members.\n\n
+ 3)Circuit diagram will be provided with required materials.\n\n
+ 4)Winner will be declared in accordance of how much time he/she uses in completing the circuit with correct output.</string>
+    <string name="technova_tekfo_rules"> 1)Participants can participate only in a group of two members.\n\n
+ 2)A clue will be provided along with KU’s map to each team and with the help of those clues the participants need to search the next clue.\n\n
+ 3)Finally, the clue which the participants get in the end will give them the key to their destination.\n\n
+ 4)It is completely based on time management so the participants need to use his/her time as efficiently as possible.</string>
+    <string name="technova_build_rules"> 1)Participants can participate either in a group of two or three only.\n\n
+ 2)Participants will have to make a bridge in an allotted time period.\n\n
+ 3)500 ice cream sticks with 250 gram of glue will be provided to each team for the construction of the bridge.\n\n
+ 4)Addition of any other liquids/materials like spirit, petrol, kerosene are prohibited. In case if found using all these materials/liquids, participants will be disqualified.\n\n
+ 5)The group constructing a bridge which can take a maximum load will be declared as winner.</string>
+    <string name="technova_robo_rules"> 1)Participants can participate single or in a group (not exceeding five members).\n\n
+ 2)The participants will have to bring their own remote control robots.\n\n
+ 3)The one who covers all the obstacles in minimum time will be declared as winner.</string>
+    <string name="technova_cod_rules"> 1)Each team can comprise of maximum one member.\n\n
+ 2)An incorrect algorithm with PCs will be provided to each of the participants.\n\n
+ 3)Participants will have to choose a language from the given languages. Languages are C, C++, Python, JAVA.\n\n
+ 4)Participants will have to write a code in their chosen language.\n\n
+ 5)All the participants will have to show correct output in an allotted time period.</string>
+    <string name="winter_runway_rules">1.All students are allowed to participate.\n\n
+2.The minimum height for girls : 5 inch(without heels).\n\n
+3.The minimum height for boys : 5.5 inch(without boots).\n\n
+4.The dress code for girls: white tank top ,blue jeans and stilletos( minimum height of 4 inch).\n\n
+5.The dress code for boys: white t-shirt ,blue jeans and boots.\n\n
+6.The candidates should bring a full length photograph at the time of registration.\n\n
+7.The registration fee for the audition is Rs 100 and after selection, each shortlisted contestants should submit an amount of Rs 1500 for grooming and accomodation purposes.\n\n
+8.The decisions of the judges will be final.</string>
+    <string name="rangmanch_skit_rules">1.The participating teams should have a minimum of 5 and a maximum of 7 members.\n\n
+2.The teams will be given a total of 20 minutes, 5 minutes of which they may use for preparing the stage. Maximum 15 minutes shall be provided to each team to perform their skit.\n\n
+3.The Props necessary for the skit will have to be arranged by the teams themselves. Furniture like tables, chairs etc., if necessary, will be made available at event venue. The teams must inform regarding such requirements to the Event Coordinator.\n\n
+4.The teams will also have to arrange their own Makeup and Costumes.\n\n
+5.The teams will be free to select the theme/story/script for the skit. However, it is essential that their story/script is original.\n\n
+6.The story/script should not contain any vulgarity or obscenity. The teams should also make sure that their story/script or the overall performance do not hurt or offend the feelings of any religious/ethnic/racial groups or communities.\n\n
+7.The Competition will be judged on the basis of the script, facial expressions, and creative use of props, stage mannerism, co-ordination, voice modulation and overall performance.\n\n
+8.Final ratings shall be decided by aggregating points awarded by a panel of judges.\n\n
+9.In case of any dispute, decision of the judges and organizers of the event shall be final, conclusive and binding.
+</string>
+    <string name="rangmanch_just_rules">1.It is an individual event.\n\n
+2.The participants have to entertain the audience and only 2 minute time will be given.\n\n
+3.The participant is allowed to show any talent (mime, mimicry, stand-up comedy, etc.) except singing and dancing.\n\n
+4.If the participant is successful to entertain the audience and judges within 2 min of time, he/she will be given an extra 2 min to continue with the act. (Total of 4 mins time).\n\n
+5.There will be on spot registrations.</string>
+    <string name="title_activity_start">StartActivity</string>
+
+
+    <string name="guide_general">1) Participation to any event at Talent Tantra is subject to the participants fulfilling the requisite procedures of participation, meeting the eligibility criteria and the sole and absolute discretion of the organisers of Talent Tantra. The organisers reserve the right to suspend or withdraw the participation of any participant at any time, including after the confirmation of registration.\n\n
+2) All participants must carry valid photo IDs of their institution and age proof, and produce the same on demand.\n\n
+3) All participants must comply withall rules and guidelines as are notified by the organizing committee and judges, including without limitation the specific rules and guidelines pertaining to a particular event organised as a part of Talent Tantra. The decision of the judges shall be final and no representation to the contrary shall be entertained and will be dismissed summarily.\n\n
+4) The registration fees for each event will be accepted only at the registration desk and shall be non-refundable, except to the limited extent provided herein. Participation to an event is subject to the payment of all registration fees in full.\n\n
+5) Accommodation may be provided to participants and/or competitors at the sole and absolute discretion of the organisers of Talent Tantra. All accommodation provided hereunder shall be subject to the rules and regulations provided herein and shall be chargeable in accordance with the rules and regulations provided below.\n\n
+6) Buses up to Jorhat (Barua Chariali) will be provided at the end of the show on all three days. However, the organisers make no representation as to the availability of seating on such transportation and disclaim any and all claims that may arise as a result of the provision of such transportation, including without limitation any claims arising as a result of any accident and/or death of any persons.\n\n
+7) Misconduct, distasteful and/or abusive behaviour and/or non-compliance with any applicable rules and reasonable requests of the organisers of Talent Tantra by any person shall not be tolerated and the organisers reserve the right to evict such persons from the University premises and terminate their participation, and/or strip them of any prizes at its sole.\n\n
+8) The organisers reserve the right to suspend / withdraw / replace / cancel Talent Tantra 2018 and/or any event forming a part of Talent Tantra 2018 without any prior notice to any person, at its sole and absolute discretion. In the event of and only in the event of the cancellation of any event and/or Talent Tantra, shall the participants be liable for a refund of all registration fees paid in relation to the cancelled event. Such refund shall be processed within 60 to 90 days of the cancellation of the event.\n\n
+9) Coordinators and Volunteers must carry their Talent Tantra IDs with them at all times.</string>
+
+    <string name="guide_travel">Travel Reimbursement is available for participants who come in groups/teams (Min. 5 members) from a distance of greater than 150km from the Kaziranga University campus.\n\n
+
+1)	Subject to the sole discretion of organisers of Talent Tantra, travel reimbursement may be provided to participants who participate in groups/teams of five (5)or more members (“Teams”) at events conducted with the Kaziranga University campus and travel for a distance of greater than one hundred and fifty kilometres (150km) from the Kaziranga University campus. Any and all reimbursements made shall be subject to such Teams producing valid invoices and receipts of all expenses incurred while travelling to the campus for participation in Talent Tantra.\n\n
+2)	All reimbursements shall be made in accordance with the following schedule, subject always to a maximum reimbursement of Indian Rupees Five Hundred only (INR 500/-) per participant:\n\n
+Team Size    Two way reimbursement per person\n\n
+  20+	participants          Up to fifty percent (50%)\n\n
+  10 to 19 participants      Up to thirty percent (30%)\n\n
+  5 to 9 participants       Up to twenty percent (20%)\n\n
+3) All reimbursements will be made with respect to the cheapest and shortest distance sleeper class train fare and/or bus fare between the point of origin of the Team and the University Campus, irrespective of the mode of transportation. For example, where a Team travels by air from Kolkata to Jorhat and by taxi from Jorhat airport to Kaziranga University, such Team, upon producing the valid receipts and tickets shall be eligible to receive such sums as reimbursement equal to the cheapest available train from Kolkata to Jorhat and applicable bus fare from Jorhat airport to the Kaziranga University campus. \n\n
+4) Teams must register themselves online at www.talenttantra.com on or before 30thDecember 2017 in order to avail the reimbursements contemplated herein. Subject to the sole discretion of the organisers, no claims for reimbursements shall be entertained for any Team that fails to register themselves within the stipulated time provided above.\n\n
+5) With specific respect to travel reimbursements, no modifications to the number of participants without prior written notice to the organising committee will be entertained. The organising committee reserves the right to disapprove any modification requests, even where such requests are duly made and received by the organising committee.\n\n
+6) All participants are required to submit a copy of their valid ID cards, and their tickets (which should include date, departure location &amp; official signature/stamp of the transport service) in order to avail any reimbursement.\n\n
+7) Travel reimbursement will be made at the time of departure on the last day of Talent Tantra, and any requests to preponesuch reimbursements shall be summarily dismissed.\n\n
+8) Travel reimbursement will be done for the whole team together, as per the names on our database. We will not entertain any individual requests.\n\n
+
+NOTE:\n\n
+1) ONLY PARTICIPANTS ARE ELIGIBLE FOR TRAVEL REIMBURSEMENT.\n\n
+2) MAXIMUM REIMBURSEMENT PER PERSON THAT WILL BE GIVEN IS RS. 500.\n\n
+Example: If a 7 member team is travelling from Guwahati (one way fare = Rs. 300), each team member will be given 20% of the two way fare (i.e. 20% of Rs. 600 = Rs.120).
+</string>
+    <string name="guide_acco_rules">1) Accommodation will be made available on a first-come first-served basis and subject to availability. It will be charged at Rs. 100 per day.\n\n
+2) A refundable security deposit of Rs. 100 will be charged per participant. This will be returned to the individual at their departure, only after the receipt has been shown and verified.\n\n
+3) Only breakfast will be provided, on a chargeable basis. Bed, pillow, blanket will be provided by the organizers.\n\n
+4) At the end of the concert each evening, participants must report to their respective accommodation areas within 30 minutes of the conclusion of the concert.\n\n
+5) The provision of accommodation to participants is subject to their compliance with all rules and regulations enforced by the Kaziranga University for the respective and subject to the jurisdiction of the Hostel Warden and Deputy Warden and all other appropriate authority within Kaziranga University.\n\n
+6) Alcohol and Smoking are strictly prohibited within the University campus. Strict action will be taken against any damage to institutional property.\n\n
+7) Any instance of misbehavior will lead to disqualification of participants, and the Team from participating any and all events of Talent Tantra, and will lead to the immediate eviction of the participant from the hostel and University premises at the sole and absolute discretion of the organisers.</string>
+    <string name="guide_acco">Subject to the following rules and regulations, accommodation for participants will be provided in the KU Girls and Boys Hostels, for all three days of the event (5th, 6th and 7th January 2018). Under special circumstances, accommodation may be provided on priority basis on the 4th of January 2018 as well.</string>
+    <string name="Rs">\u20B9</string>
+    <string name="contact_desc">Keeping in tandem with the delightful and happy traditions of the North-East, Kaziranga University is once again playing host to a celebration of music, fun and festivities from the 5th to the 7th of January, as a part of its annual winter fest – Talent Tantra 2018!</string>
+</resources>

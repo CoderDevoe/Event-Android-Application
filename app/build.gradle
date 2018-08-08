@@ -1,0 +1,52 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 27
+    buildToolsVersion "27.0.1"
+
+    defaultConfig {
+        applicationId "com.example.devashish.tt20"
+        minSdkVersion 21
+        targetSdkVersion 27
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+
+}
+
+dependencies {
+    api fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'com.android.support:support-v4:27.0.2'
+    testCompile 'junit:junit:4.12'
+    api 'com.android.support:appcompat-v7:27.0.2'
+    api 'com.android.support:design:27.0.2'
+    api 'com.github.Cutta:GifView:1.1'
+    api 'devlight.io:navigationtabbar:1.2.5'
+    api 'com.github.devlight.navigationtabstrip:navigationtabstrip:1.0.4'
+    api 'com.ogaclejapan.smarttablayout:library:1.6.1@aar'
+    api 'com.ogaclejapan.smarttablayout:utils-v4:1.6.1@aar'
+    api 'com.android.support.constraint:constraint-layout:1.1.0-beta4'
+    api 'com.android.support:cardview-v7:27.0.2'
+    api 'com.afollestad:aesthetic:0.4.6'
+    api 'com.ss.bannerslider:bannerslider:1.8.0'
+    api 'com.jackandphantom.android:circularprogressbar:1.2.0'
+    api 'com.yarolegovich:discrete-scrollview:1.3.2'
+    api 'com.fujiyuu75:sequent:0.2.1'
+    api 'de.hdodenhof:circleimageview:2.2.0'
+    api 'util.android.textviews:library:1.3@aar'
+    api 'in.championswimmer:SimpleFingerGestures_Android_Library:1.2'
+    api 'com.ramotion.cardslider:card-slider:0.1.0'
+    api 'com.github.florent37:arclayout:1.0.3'
+    api 'com.google.android.gms:play-services-maps:11.8.0'
+
+    api 'com.github.medyo:fancybuttons:1.8.4'
+    implementation 'com.mikepenz:fastadapter:3.0.5@aar'
+    implementation 'com.github.bumptech.glide:glide:4.4.0'
+    annotationProcessor 'com.github.bumptech.glide:compiler:4.4.0'
+}
